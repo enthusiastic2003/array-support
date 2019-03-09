@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=giveOutput
+comment1.params=a
+comment1.target=int\ outputInt(int[])
+comment2.params=a
+comment2.target=int\ outputDouble(double[])
+comment3.params=a
+comment3.target=int\ outputString(java.lang.String[])
+numComments=4
